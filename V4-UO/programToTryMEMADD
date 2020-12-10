@@ -1,0 +1,8 @@
+
+30
+5
+NOP //registerPC_CPU++
+ADD 3+1
+WRITE 10
+MEMADD 1 10
+HALT
